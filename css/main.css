@@ -6,25 +6,25 @@
 
  h1 {
  	text-align: center;
- 	font-size: 1.75rem;
+ 	font-size: 1.75em;
  }
  .title {
  	position: absolute;
- 	top: 0;
- 	right: 0;
+ 	top: 0px;
+ 	right: 0px;
  	border: 1px solid black;
- 	font-size: 1.25rem;
+ 	font-size: 1.25em;
  }
 
- #section1, #section2, #section3 {
+  #section1, #section2, #section3 { 
  	
  	padding: 12px;
 
  }
 
  #section1 .content, #section2 .content, #section3 .content {
- 	font-size: 1rem;
- 	background-color: #0DD37E; 
+ 	font-size: 1em;
+ 	background-color: #A9A9A9; 
  	position: relative;
  	border:1px solid black;
  	padding-top: 12px;
@@ -61,7 +61,7 @@
 	}
 
 	#section1, #section2 {
-		width: 45%;
+		width: 49%;
 	}
 
 	#section3 {
@@ -78,5 +78,3 @@
 	} 
 
 }
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
